@@ -6,4 +6,3 @@ for i in range(1, n+1, 2):
         sum1 *= j
     sum2 += sum1
 print(sum2)
-eval
